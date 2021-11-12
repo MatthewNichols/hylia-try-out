@@ -3,6 +3,6 @@ layout: home
 title: A simple starter kit for Eleventy NetlifyCMS
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: ""
 ---
-This is Matthew testing out Hylia and NetlifyCMS
+This is Matthew testing out Hylia and NetlifyCMS. Pretty Easy to edit.
